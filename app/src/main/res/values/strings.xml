@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Travis Allen</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="Bio">These are words!
+        \n\n  These are also words.
+        \n\n  These are words too.
+        \n\n  Here are some more words.
+        \n\n Words!!!
+        \n\n Words!!!
+        \n\n Words!!!
+        \n\n Words!!!
+        \n\n Words!!!
+
+        \n\n  A bio is just words.</string>
+    <string name="What_is_your_nickname">What is you nickname?</string>
+    <string name="done">DONE</string>
+</resources>
